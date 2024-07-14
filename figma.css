@@ -1,0 +1,125 @@
+.App
+{
+
+position: relative;
+width: 550px;
+height: 853px;
+background: #FFFFFF;
+border-radius: 8.95px;
+margin:1%;
+}
+
+.Navbar
+{
+
+position: absolute;
+width: 550px;
+height: 56px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.logo-img
+{
+    display: flex;
+    position: absolute;
+    height: 50px;
+}
+.collabs
+{
+/* Group 77 */
+
+position: absolute;
+width: 498px;
+height: 264px;
+left: 45px;
+top: 70px;
+}
+.middle>p{
+/* Online Experiences */
+
+position: absolute;
+width: 347px;
+height: 40px;
+left: 36px;
+top: 345px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+/* identical to box height, or 40px */
+
+color: #000000;
+
+}
+
+.underpass
+{
+/* Join unique interactive activities led by one-of-a-kind hosts—all without leaving home. */
+
+box-sizing: border-box;
+position: absolute;
+width: 320px;
+height: 56px;
+left: 36px;
+top: 420px;
+}
+.card-photo
+{
+/* image 12 */
+
+position: absolute;
+width: 176px;
+height: 260px;
+left: 37px;
+top: 496px;
+border-radius: 9px;
+}
+
+.under-card{
+/* Group 65 */
+padding: 0;
+position: absolute;
+width: 176px;
+height: 58px;
+left: 36px;
+top: 765px;
+border: 2px solid black;;
+}
+
+.star
+{
+    /* Star 1 */
+
+position: absolute;
+height: 14px;
+left:5px;
+border-radius: 0.5px;
+}
+.ratings
+{
+    /* 5.0 */
+
+font-family: 'Poppins';
+font-style: normal;
+/* identical to box height, or 13px */
+
+color: #222222;
+}
+
+.reviews
+{
+    /* (6) */
+
+font-family: 'Poppins';
+font-style: normal;
+/* identical to box height, or 13px */
+color: #918E9B;
+}
+.card>p{
+    margin:0px;
+    padding:0;
+}

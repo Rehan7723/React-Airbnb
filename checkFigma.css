@@ -1,0 +1,734 @@
+/* AirBnb Experiences 
+
+position: relative;
+width: 550px;
+height: 853px;
+
+background: #FFFFFF;
+border-radius: 8.95px;
+
+
+/* Group 77 
+
+position: absolute;
+width: 498px;
+height: 264px;
+left: 52px;
+top: 70px;
+
+
+
+/* image 28 */
+
+position: absolute;
+width: 90.96px;
+height: 109.71px;
+left: 52px;
+top: 125.54px;
+
+background: url(image.png);
+border-radius: 8.95px;
+
+
+/* image 29 */
+
+position: absolute;
+width: 91.72px;
+height: 109.71px;
+left: 255.14px;
+top: 224.29px;
+
+background: url(image.png);
+border-radius: 8.95px;
+
+
+/* image 25 */
+
+position: absolute;
+width: 90.96px;
+height: 109.71px;
+left: 459.04px;
+top: 90.57px;
+
+background: url(image.png);
+border-radius: 8.95px;
+
+
+/* image 22 */
+
+position: absolute;
+width: 91.72px;
+height: 110.4px;
+left: 357.47px;
+top: 70px;
+
+background: url(image.png);
+border-radius: 8.95px;
+
+
+/* image 23 */
+
+position: absolute;
+width: 90.96px;
+height: 109.71px;
+left: 357.47px;
+top: 190px;
+
+background: url(image.png);
+border-radius: 8.95px;
+
+
+/* image 24 */
+
+position: absolute;
+width: 90.96px;
+height: 110.4px;
+left: 459.04px;
+top: 209.89px;
+
+background: url(image.png);
+border-radius: 8.95px;
+
+
+/* image 27 */
+
+position: absolute;
+width: 91.72px;
+height: 109.71px;
+left: 255.14px;
+top: 104.29px;
+
+background: url(image.png);
+border-radius: 8.95px;
+
+
+/* image 26 */
+
+position: absolute;
+width: 90.96px;
+height: 110.4px;
+left: 153.57px;
+top: 160.51px;
+
+background: url(image.png);
+border-radius: 8.95px;
+
+
+/* image 30 */
+
+position: absolute;
+width: 92.47px;
+height: 72.69px;
+left: 153.57px;
+top: 78.23px;
+
+background: url(image.png);
+border-radius: 8.95px;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 550px;
+height: 56px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+
+/* airbnb 1 */
+
+position: absolute;
+width: 82.02px;
+height: 25.35px;
+right: 437.98px;
+bottom: 805.65px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0.01%;
+right: 0.01%;
+top: 0%;
+bottom: 0%;
+
+background: #FF5A5F;
+
+
+/* Online Experiences */
+
+position: absolute;
+width: 347px;
+height: 40px;
+left: 36px;
+top: 360px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 110%;
+/* identical to box height, or 40px */
+
+color: #000000;
+
+
+
+/* Join unique interactive activities led by one-of-a-kind hosts—all without leaving home. */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 320px;
+height: 56px;
+left: 36px;
+top: 416px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 110%;
+/* or 18px */
+
+color: #222222;
+
+border: 1px solid #000000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Group 65 */
+
+position: absolute;
+width: 176px;
+height: 58px;
+left: 36px;
+top: 765px;
+
+
+
+/* Life lessons with Katie Zaferes */
+
+position: absolute;
+width: 175px;
+height: 14px;
+left: 37px;
+top: 787px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+
+/* From $136 / person */
+
+position: absolute;
+width: 144px;
+height: 14px;
+left: 36px;
+top: 809px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+
+/* 5.0 */
+
+position: absolute;
+width: 18px;
+height: 14px;
+left: 52px;
+top: 765px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+
+/* (6) */
+
+position: absolute;
+width: 18px;
+height: 14px;
+left: 72px;
+top: 765px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #918E9B;
+
+
+
+/* USA */
+
+position: absolute;
+width: 23px;
+height: 14px;
+left: 96px;
+top: 765px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #918E9B;
+
+
+
+/* Star 1 */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 36px;
+top: 765px;
+
+background: #FE395C;
+border-radius: 0.5px;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 2px;
+height: 2px;
+left: 92px;
+top: 771px;
+
+background: #918E9B;
+
+
+/* Group 78 */
+
+position: absolute;
+width: 176px;
+height: 66px;
+left: 230px;
+top: 762px;
+
+
+
+/* Learn wedding photography */
+
+position: absolute;
+width: 175px;
+height: 15.93px;
+left: 231px;
+top: 787.03px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* or 13px */
+
+color: #222222;
+
+
+
+/* From $125 / person */
+
+position: absolute;
+width: 144px;
+height: 15.93px;
+left: 230px;
+top: 812.07px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 110%;
+/* or 13px */
+
+color: #222222;
+
+
+
+/* 5.0 */
+
+position: absolute;
+width: 18px;
+height: 15.93px;
+left: 246px;
+top: 762px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* or 13px */
+
+color: #222222;
+
+
+
+/* (30) */
+
+position: absolute;
+width: 27px;
+height: 20.48px;
+left: 266px;
+top: 762px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* or 13px */
+
+color: #918E9B;
+
+
+
+/* USA */
+
+position: absolute;
+width: 23px;
+height: 15.93px;
+left: 300px;
+top: 762px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* or 13px */
+
+color: #918E9B;
+
+
+
+/* Star 1 */
+
+position: absolute;
+width: 14px;
+height: 15.93px;
+left: 230px;
+top: 762px;
+
+background: #FE395C;
+border-radius: 0.5px;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 2px;
+height: 2.28px;
+left: 294px;
+top: 768.83px;
+
+background: #918E9B;
+
+
+/* Group 79 */
+
+position: absolute;
+width: 176px;
+height: 55px;
+left: 424px;
+top: 765px;
+
+
+
+/* Group Mountain Biking */
+
+position: absolute;
+width: 175px;
+height: 13.28px;
+left: 425px;
+top: 785.86px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+
+/* From $50 / person */
+
+position: absolute;
+width: 144px;
+height: 13.28px;
+left: 424px;
+top: 806.72px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+
+/* 4.8 */
+
+position: absolute;
+width: 18px;
+height: 13.28px;
+left: 440px;
+top: 765px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #222222;
+
+
+
+/* (2) */
+
+position: absolute;
+width: 18px;
+height: 13.28px;
+left: 460px;
+top: 765px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #918E9B;
+
+
+
+/* USA */
+
+position: absolute;
+width: 23px;
+height: 13.28px;
+left: 484px;
+top: 765px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 110%;
+/* identical to box height, or 13px */
+
+color: #918E9B;
+
+
+
+/* Star 1 */
+
+position: absolute;
+width: 14px;
+height: 13.28px;
+left: 424px;
+top: 765px;
+
+background: #FE395C;
+border-radius: 0.5px;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 2px;
+height: 1.9px;
+left: 480px;
+top: 770.69px;
+
+background: #918E9B;
+
+
+/* image 12 */
+
+position: absolute;
+width: 176px;
+height: 260px;
+left: 37px;
+top: 496px;
+
+background: url(image.png);
+border-radius: 9px;
+
+
+/* Group 80 */
+
+position: absolute;
+width: 61px;
+height: 20px;
+left: 43px;
+top: 527px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+width: 61px;
+height: 20px;
+left: 43px;
+top: 527px;
+
+background: #FFFFFF;
+border-radius: 2px;
+
+
+/* SOLD OUT */
+
+position: absolute;
+width: 49px;
+height: 11px;
+left: 49px;
+top: 532px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 110%;
+/* or 11px */
+text-align: center;
+
+color: #222222;
+
+
+
+/* Group 72 */
+
+position: absolute;
+width: 160px;
+height: 40px;
+left: 239px;
+top: 705px;
+
+
+
+/* Further descriptions about Life lessons with Katie Zaferes */
+
+position: absolute;
+width: 160px;
+height: 40px;
+left: 239px;
+top: 705px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+line-height: 120%;
+/* or 14px */
+
+color: #FFFFFF;
+
+
+
+/* wedding-photography 1 */
+
+position: absolute;
+width: 176px;
+height: 260px;
+left: 231px;
+top: 496px;
+
+background: url(wedding-photography.jpg);
+border-radius: 9px;
+
+
+/* mountain-bike 1 */
+
+position: absolute;
+width: 176px;
+height: 260px;
+left: 425px;
+top: 496px;
+
+background: url(mountain-bike.jpg);
+border-radius: 9px;
+
+
+/* Group 81 */
+
+position: absolute;
+width: 61px;
+height: 20px;
+left: 239px;
+top: 527px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+width: 61px;
+height: 20px;
+left: 239px;
+top: 527px;
+
+background: #FFFFFF;
+border-radius: 2px;
+
+
+/* ONLINE */
+
+position: absolute;
+width: 35px;
+height: 11px;
+left: 252px;
+top: 532px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 110%;
+/* or 11px */
+text-align: center;
+
+color: #222222;
+
